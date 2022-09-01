@@ -1,1 +1,1 @@
-# Hand-Bone-X-rays-Segmentation-and-Age-Assessment-using-Deep-Learning
+# Articulated-Knowledge-of-Hand-X-ray-dataset-AK dataset
